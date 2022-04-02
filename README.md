@@ -1,4 +1,8 @@
 ### Olá, Eu sou a Jéssica 👋
+
+- 🔭 Estou trabalhando para me tornar uma desenvolvedora de software.
+- 🌱 Atualmente estou aprendendo a linguagem java.
+
 <div align="center">
   <a href="https://github.com/Jessource">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jessource&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
