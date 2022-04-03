@@ -1,7 +1,12 @@
 ### Olá, Eu sou a Jéssica 👋
+ 
+ Estou em formação para me tornar uma desenvolvera de software
 
-- 🔭 Estou trabalhando para me tornar uma desenvolvedora de software.
-- 🌱 Atualmente estou aprendendo a linguagem java.
+🌱Aprendendo tudo sobre Java
+
+💬Áreas de interesses: Desenvolvimento web, Arquitera e Engenharia de software
+
+⚡️Curiosidade: sou uma grande fã da Kylie Jenner
 
 <div align="center">
   <a href="https://github.com/Jessource">
