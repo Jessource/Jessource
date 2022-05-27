@@ -4,7 +4,7 @@
 
 🌱Aprendendo tudo sobre Java
 
-💬Áreas de interesses: Desenvolvimento web, Engenharia e Arquitetura de software
+💬Áreas de interesses: Análise de dados, Desenvolvimento web, Engenharia e Arquitetura de software
 
 ⚡️Curiosidade: sou uma grande fã da Kylie Jenner
 
