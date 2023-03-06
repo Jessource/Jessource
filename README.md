@@ -2,11 +2,11 @@
  
  Estou em formação para me tornar uma desenvolvera de software
 
-🌱Aprendendo tudo sobre Java
+🌱Aprendendo tudo sobre Java e o mundo web
 
 💬Áreas de interesses: Desenvolvimento web, Engenharia e Arquitetura de software
 
-⚡️Curiosidade: sou uma grande fã da Kylie Jenner
+
 
 <div align="center">
   <a href="https://github.com/Jessource">
