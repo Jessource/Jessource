@@ -2,7 +2,7 @@
  
  Estou em formação para me tornar uma desenvolvera de software
 
-🌱Aprendendo tudo sobre Java e o mundo web
+🌱Aprendendo tudo sobre o mundo web
 
 💬Áreas de interesses: Desenvolvimento web, Engenharia e Arquitetura de software
 
