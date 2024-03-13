@@ -1,6 +1,5 @@
 ### Olá, Eu sou a Jéssica 👋
- 
- Estou em formação para me tornar uma desenvolvera de software
+
 
 🌱Aprendendo tudo sobre o mundo web
 
